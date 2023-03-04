@@ -1,0 +1,122 @@
+Exception: Failed running C:\Program Files\Unity\Hub\Editor\2020.3.29f1\Editor\Data\il2cpp/build/BeeSettings/offline/bee.exe --no-colors --prebuiltbuildprogram="C:\Program Files\Unity\Hub\Editor\2020.3.29f1\Editor\Data\il2cpp/build/BeeSettings/offline/artifacts/buildprogram/buildprogram.exe"
+
+stdout:
+[             ] Require frontend run.  tundra.dag no longer valid. FileSignature timestamp changed: il2cpp_settings.json
+[        0s] Executed build program. Created build graph with 2 nodes.
+[           0s] Freezing tundra.dag.json into .dag (.dag file didn't exist)
+[BUSY       6s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY      16s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY      26s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY      36s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY      46s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY      56s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY      66s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY      77s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY      87s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY      97s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     107s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     117s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     127s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     137s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     148s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     158s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     168s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     178s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     188s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     198s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     208s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     219s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     229s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     239s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     249s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     259s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     269s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     279s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     290s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     300s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     310s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     320s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     330s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     341s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     351s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     361s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     371s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     381s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     391s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     401s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     412s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     422s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     432s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     442s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     452s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     462s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     472s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     483s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     493s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     503s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     513s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     523s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     533s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     543s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     553s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     564s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     574s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     584s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[BUSY     594s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+[0/2       600s] Il2Cpp G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so
+##### CommandLine
+"C:\Program Files\Unity\Hub\Editor\2020.3.29f1\Editor\Data\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe" --compile-cpp --libil2cpp-static --platform="Android" --architecture="ARM64" --configuration="Release" --outputpath="G:\projects\pos_branch\pos_client_game\unity_proj\Library\Il2cppBuildCache\Android\arm64-v8a\Native\arm64-v8a\libil2cpp.so" --cachedirectory="G:\projects\pos_branch\pos_client_game\unity_proj\Assets\..\Library\il2cpp_android_arm64-v8a/il2cpp_cache" --additional-include-directories="C:/Program Files/Unity/Hub/Editor/2020.3.29f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\bdwgc/include" --additional-include-directories="C:/Program Files/Unity/Hub/Editor/2020.3.29f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\libil2cpp/include" --baselib-directory="C:/Program Files/Unity/Hub/Editor/2020.3.29f1/Editor/Data/PlaybackEngines/AndroidPlayer\Variations\il2cpp\Development\StaticLibs\arm64-v8a" --avoid-dynamic-library-copy --tool-chain-path="C:/Program Files/Unity/Hub/Editor/2020.3.29f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK" --incremental-g-c-time-slice=3 --profiler-report --map-file-parser="C:/Program Files/Unity/Hub/Editor/2020.3.29f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe" --generatedcppdir=G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput --stats-output-dir=G:/projects/pos_branch/pos_client_game/unity_proj/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppStats --dotnetprofile="unityaot" --enable-debugger
+##### ExitCode
+4
+##### Output
+Building libil2cpp.so with AndroidToolChain
+
+	Output directory: G:\projects\pos_branch\pos_client_game\unity_proj\Library\Il2cppBuildCache\Android\arm64-v8a\Native\arm64-v8a
+
+	Cache directory: G:\projects\pos_branch\pos_client_game\unity_proj\Library\il2cpp_android_arm64-v8a\il2cpp_cache
+
+ObjectFiles: 1011 of which compiled: 462
+
+	Time Compile: 336165 milliseconds MagicaCloth5.cpp
+
+	Time Compile: 245635 milliseconds Unity.TextMeshPro4.cpp
+
+	Time Compile: 244590 milliseconds Unity.TextMeshPro3.cpp
+
+	Time Compile: 92862 milliseconds MagicaCloth4.cpp
+
+	Time Compile: 88203 milliseconds Assembly-CSharp2.cpp
+
+	Time Compile: 75567 milliseconds Unity.Mathematics.cpp
+
+	Time Compile: 73053 milliseconds MagicaCloth3.cpp
+
+	Time Compile: 46223 milliseconds Unity.TextMeshPro2.cpp
+
+	Time Compile: 42442 milliseconds MagicaCloth.cpp
+
+	Time Compile: 37024 milliseconds MagicaCloth2.cpp
+
+Total compilation time: 570909 milliseconds.
+
+Error: Unity.IL2CPP.Building.BuilderFailedException: C:\Program Files\Unity\Hub\Editor\2020.3.29f1\Editor\Data\PlaybackEngines\AndroidPlayer\NDK\toolchains\llvm\prebuilt\windows-x86_64\bin\clang++ @"C:\Users\onemt\AppData\Local\Temp\tmp61B1.tmp" -o "G:\projects\pos_branch\pos_client_game\unity_proj\Library\il2cpp_android_arm64-v8a\il2cpp_cache\linkresult_F363B3C8721D2DD6ACDCCBB56E926008\libil2cpp.so" -shared -Wl,-soname,libil2cpp.so -Wl,--no-undefined -Wl,-z,noexecstack -Wl,--gc-sections -Wl,--build-id -stdlib=libc++ -static-libstdc++ -target aarch64-linux-android21 -Wl,--wrap,sigaction "C:\Program Files\Unity\Hub\Editor\2020.3.29f1\Editor\Data\PlaybackEngines\AndroidPlayer\Variations\il2cpp\Development\StaticLibs\arm64-v8a\baselib.a" -llog -rdynamic -fuse-ld=bfd.exe
+
+
+
+C:\Program Files\Unity\Hub\Editor\2020.3.29f1\Editor\Data\PlaybackEngines\AndroidPlayer\Variations\il2cpp\Development\StaticLibs\arm64-v8a\baselib.a(External_il2cpp_builds_external_baselib_Platforms_Android_Source_0.o): In function `LinuxApi::detail::futex(int*, int, int, timespec const*, int*, int)':
+
+/Users/bokken/buildslave/unity/build/External/il2cpp/builds/external/baselib/Source/Linux/Baselib_SystemFutex_LinuxApi.inl.h:20:(.text._ZN14il2cpp_baselib24Baselib_SystemFutex_WaitEPiij+0x48): relocation truncated to fit: R_AARCH64_CALL26 against symbol `syscall@@LIBC' defined in .text section in C:\Program Files\Unity\Hub\Editor\2020.3.29f1\Editor\Data\PlaybackEngines\AndroidPlayer\NDK\toolchains\llvm\prebuilt\windows-x86_64\bin/../sysroot/usr/lib/aarch64-linux-android/21/libc.so
+
+/Users/bokken/buildslave/unity/build/External/il2cpp/builds/external/baselib/Source/Linux/Baselib_SystemFutex_LinuxApi.inl.h:20:(.text._ZN14il2cpp_baselib26Baselib_SystemFutex_NotifyEPijNS_30Baselib_WakeupFallbackStrategyE+0x28): relocation truncated to fit: R_AARCH64_JUMP26 against symbol `syscall@@LIBC' defined in .text section in C:\Program Files\Unity\Hub\Editor\2020.3.29f1\Editor\Data\PlaybackEngines\AndroidPlayer\NDK\toolchains\llvm\prebuilt\windows-x86_64\bin/../sysroot/usr/lib/aarch64-linux-android/21/libc.so
+
+C:\Program Files\Unity\Hub\Editor\2020.3.29f1\Editor\Data\PlaybackEngines\AndroidPlayer\Variations\il2cpp\Development\StaticLibs\arm64-v8a\baselib.a(External_il2cpp_builds_external_baselib_Platforms_Android_Source_0.o): In function `PosixApi::Baselib_Thread_GetCurrentThreadId()':
+
+/Users/bokken/buildslave/unity/build/External/il2cpp/builds/external/baselib/Source/Posix/Baselib_Thread_PosixApi.inl.h:150:(.text._ZN14il2cpp_baselib33Baselib_Thread_GetCurrentThreadIdEv+0x0): relocation truncated to fit: R_AARCH64_JUMP26 against symbol `pthread_self@@LIBC' defined in .text section in C:\Program Files\Unity\Hub\Editor\2020.3.29f1\Editor\Data\PlaybackEngines\AndroidPlayer\NDK\toolchains\llvm\prebuilt\windows-x86_64\bin/../sysroot/usr/lib/aarch64-linux-android/21/libc.so
+
+C:\Program Files\Unity\Hub\Editor\2020.3.29f1\Editor\Data\PlaybackEngines\AndroidPlayer\Variations\il2cpp\Development\StaticLibs\arm64-v8a\baselib.a(External_il2cpp_builds_external_baselib_Platforms_Android_Source_0.o): In function `detail::GetTimeAsSeconds(int)':
+
+/Users/bokken/buildslave/unity/build/./External/il2cpp/builds/external/baselib/Platforms/Android/Source/Baselib_Timer_Android.cpp:11:(.text._ZN14il2cpp_baselib42Baselib_Timer_GetTimeSinceStartupInSecondsEv+0x24): relocation truncated to fit: R_AARCH64_CALL26 against symbol `clock_gettime@@LIBC' defined in .text section in C:\Program Files\Unity\Hub\Editor\2020.3.29f1\Editor\Data\PlaybackEngines\AndroidPlayer\NDK\toolchains\llvm\prebuilt\windows-x86_64\bin/../sysroot/usr/lib/aarch64-linux-android/21/libc.so
+
+/Users/bokken/buildslave/unity/build/./External/il2cpp/builds/external/baselib/Platforms/Android/Source/Baselib_Timer_Android.cpp:11:(.text._ZN14il2cpp_baselib42Baselib_Timer_GetTimeSinceStartupInSecondsEv+0x4c): relocation truncated to fit: R_AARCH64_CALL26 against symbol `clock_gettime@@LIBC' defined in .text section in C:\Program Files\Unity\Hub\Editor\2020.3.29f1\Editor\Data\PlaybackEngines\AndroidPlayer\NDK\toolchains\llvm\prebuilt\windows-x86_64\bin/../sysroot/usr/lib/aarch64-linux-android/21/libc.so
+
+C:\Program Files\Unity\Hub\Editor\2020.3.29f1\Editor\Data\PlaybackEngines\AndroidPlayer\Variations\il2cpp\Development\StaticLibs\arm64-v8a\baselib.a(External_il2cpp_builds_external_baseli<message truncated>
